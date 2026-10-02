@@ -1,7 +1,7 @@
 {
   "v": 1,
-  "enabled": true,
-  "checkout": "https://adamaapps.lemonsqueezy.com/checkout/buy/8190e3b4-0ab7-49d2-ab2b-0d0ca8f3a299",
-  "product": 1406831,
-  "variant": 2196127
+  "enabled": false,
+  "checkout": "",
+  "product": 0,
+  "variant": 0
 }
